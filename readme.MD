@@ -26,3 +26,4 @@
 * karam
 * oil
 * masala
+* ghee
