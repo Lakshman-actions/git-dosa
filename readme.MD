@@ -24,3 +24,6 @@
 # karam dosa
 * dosa batter
 * karam
+* oil
+* masala
+* ghee
