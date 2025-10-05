@@ -10,3 +10,8 @@
 * paneer
 * karam
 * ghee
+
+# masala dosa
+* dosa batter
+* masala
+* oil
